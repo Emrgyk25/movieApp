@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    ]
+    },
+    {
+        "id": 2,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    ]
+    },
+    {
+        "id": 3,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    ]
+    },
+    {
+        "id": 4,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    ]
+    }
+]
