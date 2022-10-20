@@ -4,6 +4,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import Screen from '../Screens/Screen.js';
+import view from '../Screens/view';
 
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -17,6 +18,13 @@ const HomeStack = () => {
         }}
         name="Screen"
         component={Screen}
+      />
+      <Stack.Screen
+        options={{
+          headerShown: false,
+        }}
+        name="view"
+        component={view}
       />
     </Stack.Navigator>
   );

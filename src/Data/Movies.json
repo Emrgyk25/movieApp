@@ -5,7 +5,7 @@
         "time": "2s 42dk",
         "category":"Bilim Kurgu",
         "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
-
+        "video":"https://imdb-video.media-imdb.com/vi531039513/1434659607842-pgv4ql-1440787227613.mp4?Expires=1666349466&Signature=mbLjdlzWvjCuQEPXG~-RT5MAW5dNuKEYB~P5PmHN3D-VuQ37MBk1OmMRBPy32uyeL~OP0sUenHHGBTAfXUxLsotjsdS2C4w7rz5BRLK0u7cuhbGtIeS9vPDSVFWCHUyp9nxLCRaFTbbe1TUhVJjz79EUQqu68iU38O48DMxNJbPWr2F~qJ5MzYcfD1hh1GV6utzB7o3cY7d6yoYu~jeR6pgCUqene4t1OC0nl-bEknnSTxHX8gE6Halfn2-aniZsNNhihY2HIHiBwFTHh-bzGC5iI8GszKENhmSUhVHDN7bDOusjgTDK3JMlU4h7SjyzcwyGJG2gxCRQPE29whOgZQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
         "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
         "star":4.5,
         "director":"James Cameron",
@@ -57,6 +57,69 @@
         "cast": [{"name": "Sam Worthington"},
         {"name":"Sigourney Weaver"},
         {"name":"Zoe Saldana"}
+    ]
+    },
+    {
+        "id": 4,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    ]
+    },
+    {
+        "id": 4,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    ]
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    ]
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Avatar",
+        "time": "2s 42dk",
+        "category":"Bilim Kurgu",
+        "title":"Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ...",
+
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/24/08/37/1151283.jpg",
+        "star":4.5,
+        "director":"James Cameron",
+        "cast": [{"name": "Sam Worthington"},
+        {"name":"Sigourney Weaver"},
+        {"name":"Zoe Saldana"}
+    
     ]
     }
 ]
